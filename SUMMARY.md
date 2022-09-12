@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [11th Asia-Pacific Regional Conference of the ISTVS](README.md)
 * [Details](details.md)
 * [Submissions](submissions.md)
 * [Registration](registration.md)
