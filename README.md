@@ -6,6 +6,8 @@ coverY: 0
 
 # 20th International and 9th Americas Conference of the ISTVS
 
+<figure><img src=".gitbook/assets/Montreal 2021 not CFP - Social 1280 × 640.jpg" alt=""><figcaption></figcaption></figure>
+
 Our international conferences form an amazing legacy since our first meeting in 1962 in Turin, Italy — International Society for Terrain-Vehicle Systems (ISTVS) today is a connected group of collaborative professionals from industry, universities, and research institutions who have been meeting over five decades to share research findings.
 
 The 20th International and 9th Americas Conference gives you the opportunity to exchange ideas and technical information on current and future research and technology developments in terramechanics and terrain/road-vehicle system dynamics, control, design, vetronics, autonomous vehicle systems and Industry 4.0.
